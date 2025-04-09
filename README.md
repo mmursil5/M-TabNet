@@ -113,4 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 - Inspired by the **TabNet** model for sequential decision-making using attention mechanisms.
-- Thanks to the research community for advancing multimodal machine learning techniques.
+- If you have any questions or need assistance, feel free to reach out.
